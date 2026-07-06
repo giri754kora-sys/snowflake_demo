@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+
+  - name: PRACTISE_FASTRACK_WH
+
+    database: GIRI_SNF_PRACTISE_DB
+
+    schema: SNF_PRACTISE_SCHEMA
+
+    tables:
+
+      - name: ORDERS          
